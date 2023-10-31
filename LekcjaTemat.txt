@@ -1,0 +1,23 @@
+		    Lekcja
+Temat: tablice, obsługa pilków tekstowych.
+
+!!! Poczytać sobie o strumieniach danych !!!
+
+Mając dane.txt
+2
+4
+6
+8
+12
+14
+18
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+Pobierz co 2 liczbe i wyznacz sume 2 liczb.
+Pobierz co 3 liczbe i wyznacz sume liczb parzystych. 
+Pobierz pierwsza liczbe i ostatnia i wyznacz sume.
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-==-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+ 
